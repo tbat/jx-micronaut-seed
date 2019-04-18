@@ -1,7 +1,7 @@
 replicaCount: 1
 image:
-  repository: draft
-  tag: dev
+  repository: 10.87.249.60:5000/tbat/jx-micronaut-seed
+  tag: 0.0.1
   pullPolicy: IfNotPresent
 env: null
 knativeDeploy: false
